@@ -22,7 +22,7 @@ Lesson 1: [Intro](https://colab.research.google.com/github/ImagingInformatics/ma
 
 Lesson 2: [Data Analysis](https://colab.research.google.com/github/ImagingInformatics/machine-learning/blob/master/SiiM2019/MLcourse_Notebook_1_update.ipynb)
 
-Lesson 3: [Segmentation](https://colab.research.google.com/github/fangyi-mdai/rsna-2019-segmentation/blob/master/brain%20segmentation.ipynb)
+Lesson 3: <a href="https://colab.research.google.com/github/fangyi-mdai/rsna-2019-segmentation/blob/master/brain%20segmentation.ipynb" target="_blank">Segmentation</a>
 
 Lesson 4: [GANs](https://colab.research.google.com/github/ImagingInformatics/machine-learning/blob/master/SiiM2019/MLcourse_Notebook_1_update.ipynb)
 
